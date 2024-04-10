@@ -1,3 +1,3 @@
 # demo
 testing
-auyhor manoj
+author manoj
